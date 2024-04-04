@@ -1,0 +1,48 @@
+:root { 
+  --black: #000000;
+  --dawn: #a8a297;
+  --main-black: #181717;
+  --main-gray: #606060;
+  --main-white: #f3f3f3;
+  --primarymain: #128441;
+ 
+  --font-size-l: 21px;
+  --font-size-m: 18px;
+  --font-size-xl: 32px;
+  --font-size-xxl: 43px;
+  --font-size-xxxl: 60px;
+ 
+  --font-family-dm_sans: "DM Sans", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+}
+.body {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+}
+
+.sub-header--link {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.54px;
+}
+
+.dmsans-medium-eerie-black-21px {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-eerie-black-18px {
+  color: var(--main-black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}

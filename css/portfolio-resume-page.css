@@ -1,0 +1,142 @@
+/* screen - portfolio-resume-page */
+
+.portfolio-resume-page {
+  align-items: center;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  gap: 179px;
+  height: 2460px;
+  width: 1440px;
+}
+
+.portfolio-resume-page .logo {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-resume-page .title {
+  color: var(--dawn);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: -1.29px;
+  line-height: 51.6px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-resume-page .frame {
+  height: 1518px;
+  width: 1173px;
+}
+
+.portfolio-resume-page .frame-30233 {
+  align-items: center;
+  flex-direction: column;
+  gap: 112px;
+}
+
+.portfolio-resume-page .seperator {
+  height: 2px;
+  position: relative;
+  width: 1120px;
+}
+
+.portfolio-resume-page .frame-30231 {
+  align-items: center;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 156px;
+}
+
+.portfolio-resume-page .contact {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 298px;
+  position: relative;
+}
+
+.portfolio-resume-page .frame-15 {
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+.portfolio-resume-page .feel-free-to-get-in-touch {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 347px;
+}
+
+.portfolio-resume-page .image {
+  height: 21px;
+  position: relative;
+  width: 24px;
+}
+
+.portfolio-resume-page .frame-14 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 27px;
+}
+
+.portfolio-resume-page .leejiyoung91398gmailcom {
+  color: var(--main-black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-resume-page .footer {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 400px;
+  justify-content: center;
+  padding: 50px;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-resume-page .social-links {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-resume-page .social-links-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-resume-page .frame-1 {
+  display: inline-flex;
+  position: relative;
+}

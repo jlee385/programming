@@ -1,0 +1,314 @@
+/* screen - portfolio-work-page */
+
+.portfolio-work-page {
+  align-items: center;
+  background-color: var(--main-white);
+  display: flex;
+  flex-direction: column;
+  height: 3135px;
+  width: 1440px;
+}
+
+.portfolio-work-page .logo {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-work-page .j-l {
+  color: var(--dawn);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: -1.29px;
+  line-height: 51.6px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-work-page .overlap-group {
+  height: 129px;
+  margin-right: 66.0px;
+  margin-top: 217px;
+  position: relative;
+  width: 1056px;
+}
+
+.portfolio-work-page .rectangle-1525 {
+  background-color: var(--dawn);
+  height: 33px;
+  left: 705px;
+  position: absolute;
+  top: 16px;
+  width: 169px;
+}
+
+.portfolio-work-page .frame-3 {
+  align-items: flex-end;
+  display: inline-flex;
+  gap: 116px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.portfolio-work-page .hello-im-jiyoung-lee {
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  height: 129px;
+  letter-spacing: -1.80px;
+  line-height: 58.3px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 360px;
+}
+
+.portfolio-work-page .span0-1 {
+  color: var(--main-black);
+  letter-spacing: -1.08px;
+}
+
+.portfolio-work-page .span1 {
+  color: var(--dawn);
+  letter-spacing: -1.08px;
+}
+
+.portfolio-work-page .im-a-passionate-ux {
+  color: var(--main-gray);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  position: relative;
+  width: 580px;
+}
+
+.portfolio-work-page .image {
+  align-self: flex-start;
+  height: 38px;
+  margin-left: 160px;
+  margin-top: 118px;
+  width: 34px;
+}
+
+.portfolio-work-page .project_01 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 108px;
+  margin-top: 103px;
+  position: relative;
+}
+
+.portfolio-work-page .description {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 124px;
+  position: relative;
+}
+
+.portfolio-work-page .frame-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.portfolio-work-page .x01-grocery-on-budget {
+  color: transparent;
+  font-weight: 500;
+  height: 19px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 326.21px;
+}
+
+.portfolio-work-page .span0 {
+  letter-spacing: -0.10px;
+}
+
+.portfolio-work-page .span1-1 {
+  color: var(--primarymain);
+}
+
+.portfolio-work-page .new-yorkers-are-cook {
+  color: var(--main-black);
+  font-weight: 400;
+  line-height: 21.9px;
+  position: relative;
+  width: 356px;
+}
+
+.portfolio-work-page .link-1 {
+  color: var(--main-black);
+  cursor: pointer;
+}
+
+.portfolio-work-page .img {
+  height: 364.68px;
+  position: relative;
+  width: 640px;
+}
+
+.portfolio-work-page .seperator {
+  height: 2px;
+  margin-right: 4.94px;
+  margin-top: 112px;
+  width: 1115px;
+}
+
+.portfolio-work-page .project_02 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 124px;
+  margin-top: 114px;
+  position: relative;
+}
+
+.portfolio-work-page .x02-numera {
+  color: transparent;
+  font-weight: 500;
+  height: 19px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 326.21px;
+}
+
+.portfolio-work-page .span1-2 {
+  color: #30983e;
+}
+
+.portfolio-work-page .lorem-ipsum-dolor-si {
+  color: var(--main-black);
+  font-weight: 400;
+  line-height: 21.9px;
+  position: relative;
+  width: 356px;
+}
+
+.portfolio-work-page .link {
+  color: var(--main-black);
+  font-weight: 500;
+  height: 20px;
+  line-height: 21.9px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 326.21px;
+}
+
+.portfolio-work-page .project_03 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 114px;
+  position: relative;
+  width: 1120px;
+}
+
+.portfolio-work-page .x03-apple-wallet-re-design {
+  color: var(--main-black);
+  font-weight: 500;
+  height: 19px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 326.21px;
+}
+
+.portfolio-work-page .x04-artingle-branding {
+  color: transparent;
+  font-weight: 500;
+  height: 19px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 326.21px;
+}
+
+.portfolio-work-page .span1-3 {
+  color: #e97451;
+}
+
+.portfolio-work-page .link-2 {
+  color: var(--main-gray);
+}
+
+.portfolio-work-page .footer {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-shrink: 1;
+  gap: 400px;
+  justify-content: center;
+  margin-top: 110px;
+  padding: 50px;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-work-page .social-links {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-work-page .description-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.portfolio-work-page .img-4 {
+  height: 364.68px;
+  position: relative;
+  width: 640px;
+}
+
+.portfolio-work-page .link-3 {
+  font-weight: 500;
+  height: 20px;
+  line-height: 21.9px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 326.21px;
+}
+
+.portfolio-work-page .lorem-ipsum-dolor-si-3 {
+  color: var(--main-black);
+  font-weight: 400;
+  line-height: 21.9px;
+  position: relative;
+  width: 356px;
+}
+
+.portfolio-work-page .span1-4 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  letter-spacing: -0.10px;
+}
